@@ -1,0 +1,64 @@
+[
+  
+  {
+    "title": "TryHackMe - LazyAdmin (Easy)",
+    "url": "/posts/lazyadmin/",
+    "categories": "Write-Ups",
+    "tags": "write-up, OSCP, Pentesting, Ethical-Hacking, Password-Cracking, Easy, PHP-reverse-shell",
+    "date": "2021-01-17 14:30:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Welcome to my second write-up, this time based on the room LazyAdmin from TryHackMe. This is the second of a series of rooms I will be covering on my personal Road to OSCP journey.You can find the room for free in the following link: TryHackMe - LazyAdminReconnaissance:First off as usual, we run ..."
+  },
+  
+  {
+    "title": "TryHackMe - Inclusion (Easy)",
+    "url": "/posts/inclusion/",
+    "categories": "Write-Ups",
+    "tags": "write-up, OSCP, Pentesting, Ethical-Hacking, LFI, GTFObins, Easy",
+    "date": "2021-01-15 16:10:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Welcome and link to the roomWelcome to my first write-up, this time based on the room Inclusion. This is the first of a series of rooms I will be covering on my personal Road to OSCP journey.You can find the room for free in the following link: TryHackMe - InclusionReconDoing a quick scan with nm..."
+  },
+  
+  {
+    "title": "Week 5 Megapost - Implementing security measures to protect corporate data",
+    "url": "/posts/Week_5_megapost/",
+    "categories": "Blog",
+    "tags": "",
+    "date": "2020-12-08 16:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Last edited: December 19th, 2020.Implementing security measures to protect corporate dataTable of contents:            Key      Content                  1      Hardware security protection              2      What is a firewall              2.1      Types of firewall              2.1.1      Packe..."
+  },
+  
+  {
+    "title": "Backups and data recovery",
+    "url": "/posts/backups/",
+    "categories": "Blog",
+    "tags": "",
+    "date": "2020-12-01 16:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Last edited: December 7th, 2020.Table of contents:            Key      Content                  1.      Backups and intro to Data Recovery              2.      Data Recovery              3.      Biometrics              3.1      3 Examples of Biometrics with Pros and Cons              4.      Refe..."
+  }
+  
+]
+
