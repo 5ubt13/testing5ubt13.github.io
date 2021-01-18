@@ -1,5 +1,4 @@
 ---
-layout: default
 title:  "Security Breach vs Data Breach"
 description: Differences between a security breach and a data breach, including definitions of both.
 author: 0x5ubt13

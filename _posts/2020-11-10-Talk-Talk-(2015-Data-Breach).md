@@ -1,5 +1,4 @@
 ---
-layout: default
 title:  "Talk-Talk (2015 Data Breach)"
 description: "My views about the amazing Talk-Talk data breach of 2015"
 author: "0x5ubt13"
