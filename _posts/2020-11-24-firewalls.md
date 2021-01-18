@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Firewalls and IDSs"
 description: "Types of Firewalls and Intrusion Detection Systems"
 author: 0x5ubt13
