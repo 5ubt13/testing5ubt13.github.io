@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "./Subtle_Labs.sh"
+title: Subtle Labs
 tagline: CTFs & Data Security
 
-description: # this means to ignore newlines until "baseurl:" """Welcome to my site. Here you can find my blog "A Data Security Blog" and the Write-ups I create for CTFs / Vulnerable boxes."""
+description: >- # this means to ignore newlines until "baseurl:" """Welcome to my site. Here you can find my blog "A Data Security Blog" and the Write-ups I create for CTFs / Vulnerable boxes."""
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://0x5ubt13.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
@@ -86,7 +86,7 @@ kramdown:
 
 # DO NOT change this unless you're a Pro user on Jekyll and Web development,
 # or you think you're smart enough to change other relevant URLs within this template. I'm not a pro lol but have my preferences!
-permalink: /:categories/:title:output_ext
+permalink: /posts/:title/
 
 collections:
   tabs:
