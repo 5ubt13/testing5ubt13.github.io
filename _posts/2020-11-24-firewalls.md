@@ -29,7 +29,7 @@ November 24th, 2020 - Blog post. Last edited: November 29th, 2020.
 
 ---
 
-<p>&nbsp;</p>
+ 
 
 ## <a id="firewall"></a> What is a firewall:
 A firewall is a type of cybersecurity tool, either a hardware device or a utility program, that is used to monitor a network, by accepting, rejecting or dropping packets passing through it in any way, either incoming or outgoing. If the firewall deems the packets are suspicious, it will block it regardless of its procedence. Firewalls can be used to separate network nodes from external traffic sources, internal traffic sources, or even specific applications. 
@@ -88,7 +88,7 @@ Although there isn't a general consensus about what a Next-Gen firewall is, the 
 - Upgrade paths to include future information feeds
 - Techniques to address evolving security threats
 
-<p>&nbsp;</p>
+ 
 
 ## <a id="ids"></a> Intrusion Detection Systems:
 They are devices or applications that like a Firewall, as seen above, monitor the network they are implemented in for suspicious activity. If they detect a malicious activity or a policy violation, these are reported or collected centrally using a security information and event management system. The most common classifications of IDS are:
@@ -100,7 +100,7 @@ Systems like firewalls that analyze incoming network traffic.
 Systems like antivirus software that monitor important operating system files.
 
 
-<p>&nbsp;</p>
+ 
 
 # <a id="refs"></a> References:
 
@@ -124,11 +124,11 @@ Anon., 2020. Barracuda - "What is a Intrusion Detection System?" [Online] \
 [https://www.barracuda.com/glossary/intrusion-detection-system](https://www.barracuda.com/glossary/intrusion-detection-system)
 [Last accessed Nov 29th, 2020]
 
-<p>&nbsp;</p>
+ 
 
 ---
 
-<p>&nbsp;</p>
+ 
 
 [Previous blog post](https://0x5ubt13.github.io/blog/2020/11/17/encrypted-mail.html)
 
@@ -136,7 +136,7 @@ Anon., 2020. Barracuda - "What is a Intrusion Detection System?" [Online] \
 
 [My GitHub profile](https://github.com/0x5ubt13)
 
-<p>&nbsp;</p>
+ 
 
 ---
 

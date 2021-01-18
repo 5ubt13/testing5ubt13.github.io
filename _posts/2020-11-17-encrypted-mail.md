@@ -20,7 +20,7 @@ November 17th, 2020 - Blog post. Last edited: November 28th, 2020.
 * <a href="#refs">References</a>
 
 
-<p>&nbsp;</p>
+ 
 
 
 Following up on my [blog post about the consequences of data breaches](https://0x5ubt13.github.io/blog/2020/11/17/consequences-of-medical-breaches.html), I will be writing about encrypting our emails. Several email providers are great at this, some of them are [Protonmail](https://protonmail.com/), [Tutanota](https://tutanota.com/), and [Start Mail](https://www.startmail.com/en/).
@@ -53,7 +53,7 @@ How much do you think your privacy costs?
 Well, we have good news then, **it doesn't cost you a fortune!!** Protonmail and Tutanota offer you free encrypted email services. `F-o-r  f-r-e-e`. There are no excuses to treat yourself with some basic human rights. 
 StartMail offers a subscription-only service so I didn't include it in the hype.
 
-<p>&nbsp;</p>
+ 
 
 # <a id="conclusion"></a> Conclusion
 All 3 companies I'm writing about are based in Europe. The GDPR law applying in this geographical area makes for these companies to comply with very strict guidelines of human rights under big penalties if they don't satisfy the regulations. The GDPR doesn't apply in Switzerland where ProtonMail is based, however, the pending Swiss **Federal Data Protection Act (FDPA)** expands the purpose of the GDPR in their territory.
@@ -61,7 +61,7 @@ All 3 companies I'm writing about are based in Europe. The GDPR law applying in 
 Everybody should start using these services to guarantee privacy in case of a data breach. They are free and try to improve the quality of our human right to having secrecy in our communications. Please see the references below for further study.
 
 
-<p>&nbsp;</p>
+ 
 
 ## <a id="refs"></a> References
 

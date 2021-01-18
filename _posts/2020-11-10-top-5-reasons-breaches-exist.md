@@ -18,7 +18,7 @@ November 10th, 2020 - Blog post
 5. Physical Theft of a Data-Carrying Device
 
 
-<p>&nbsp;</p>
+ 
 
 
 ### Top 1: Old, Unpatched Security Vulnerabilities
@@ -48,7 +48,7 @@ It so mischievous in nature it's very hard to find an insider within a company. 
 The digital realm will never be safe if a malicious actor can access to the physical devices, either stealing or gaining physical access to them. Opportunistic in nature, these attacks make very difficult the task of foreseeing them. Regular physical penetration tests help educating security employers to reduce the physical vulnerabilities a company may have.
 
 
-<p>&nbsp;</p>
+ 
 
 
 ### References:

@@ -16,7 +16,7 @@ Welcome to my first write-up, this time based on the room Inclusion. This is the
 
 You can find the room for free in the following link: [TryHackMe - Inclusion](https://tryhackme.com/room/inclusion)
 
-<p>&nbsp;</p>
+ 
 
 # Recon
 
@@ -32,7 +32,7 @@ When we connect to the website, we see a plan blog website. There are several ar
 
 ![3](/assets/images/write-ups/tryhackme/inclusion/3.png)
 
-<p>&nbsp;</p>
+ 
 
 # The Local File Inclusion
 
@@ -46,7 +46,7 @@ If we look even closer, we can see a comment in the file that includes the passw
 
 ![Password](/assets/images/write-ups/tryhackme/inclusion/password_found.png)
 
-<p>&nbsp;</p>
+ 
 
 # Find Password, Use Password!
 
@@ -57,7 +57,7 @@ ssh -l falconfeast -p 22 $ip
 ```
 We are in.
 
-<p>&nbsp;</p>
+ 
 
 # Privilege Escalation
 
@@ -77,7 +77,7 @@ A quick GTFObins research gives us the command to pop a root shell with the acce
 sudo socat stdin exec:/bin/sh
 ```
 
-<p>&nbsp;</p>
+ 
 
 # Flags:
 
@@ -85,7 +85,7 @@ sudo socat stdin exec:/bin/sh
 
 Thank you for reading!
 
-<p>&nbsp;</p>
+ 
 
 # References and further reading material:
 
@@ -102,5 +102,5 @@ Available at: [https://www.hackingloops.com/local-file-inclusion-tutorial/](http
 Visited on: 15th January 2021 
 
 
-<p>&nbsp;</p>
+ 
 

@@ -12,7 +12,7 @@ Last edited: November 19th, 2020.
 
 # TalkTalk (2015 Data Breach)
 
-<p>&nbsp;</p>
+ 
 
 ## Table of contents:
 1. <a href="https://0x5ubt13.github.io/blog/2020/11/10/Talk-Talk-(2015-Data-Breach).html#keys">Key Takeaways</a>
@@ -22,7 +22,7 @@ Last edited: November 19th, 2020.
 5. <a href="https://0x5ubt13.github.io/blog/2020/11/10/Talk-Talk-(2015-Data-Breach).html#refs">References</a>
 
 
-<p>&nbsp;</p>
+ 
 
 ## <a id="keys"></a> Key Takeaways:
 
@@ -38,8 +38,8 @@ Last edited: November 19th, 2020.
 | ICO fine                                | £400,000                                                                                             |
 
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+ 
+ 
 
 ## <a id="what"></a> What happened?
 
@@ -61,7 +61,7 @@ They then said 2.5 million customer records were taken from their database. 90,0
 
 In 2016, the three rogue employees of Webpro were arrested for stealing the customer records off of the TalkTalk database.
 
-<p>&nbsp;</p>
+ 
  
 ## <a id="how"></a> How did it happen?
 A normal employee at Webpro could only see the data of the customer they were speaking to, but a privileged employee could see 500 records at a time by doing a lookup using the * wildcard. For example, typing the letter A followed by the wildcard * would give them the records of the first 500 customers their name began with A.
@@ -70,14 +70,14 @@ When they merged Tiscali UK with TalkTalk, the Tiscali website remained open for
 
 Then with all the customer records, a scammer can use [social engineering skills](https://us.norton.com/internetsecurity-emerging-threats-what-is-social-engineering.html#:~:text=Social%20engineering%20is%20the%20act,natural%20tendencies%20and%20emotional%20reactions.) to trick a victim into thinking they are legitimate employees of the company and then they can request a payment to repay an amount of money that hadn't been correctly assigned to their bills at the time of calculating them.
 
-<p>&nbsp;</p>
+ 
 
 ## <a id="why"></a> Why did it happen?
 A lot of people is still in 2020 unaware of all the potential risks they suffer if they get their identity stolen. If we are at this stage yet, imagine back in 2014. Scammers were able to trick a lot of people. For them, this was easy money.
 
 In the world today, there still exists a big vector of attack for this kind of people to exploit. We have to educate people about data security and how it affects our lives. 
 
-<p>&nbsp;</p>
+ 
 
 ### <a id="refs"></a> References:
 

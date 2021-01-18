@@ -35,7 +35,7 @@ Kaspersky resource center's definition:
 >
 > Anyone can be at risk of a data breach — from individuals to high-level enterprises and governments. More importantly, anyone can put others at risk if they are not protected."
 
-<p>&nbsp;</p>
+ 
 
 # <a id="diff">So, what's the difference?</a>
 
@@ -46,7 +46,7 @@ Security breaches lead to huge fines as a penalty to push private companies to t
 
 To fully understand why companies are fined, we must also explain that there also exist two kinds of security issues; We already talked about security breaches but we didn't cover security incidents. Whilst an incident may be related to an active cyber attack (social engineering, DDoS, malware, etc), it doesn't always lead to the bad actor obtaining either access to the corporate network or actual data, so whilst they are attacks, they are not considered as a security breach. Using our favourite simile, a security incident setting our story would be the burglar being caught by the police whilst trying to escape from a bank robbery.
 
-<p>&nbsp;</p>
+ 
 
 # <a id="refs">References:</a>
 

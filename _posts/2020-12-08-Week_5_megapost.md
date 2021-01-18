@@ -34,7 +34,7 @@ Last edited: December 19th, 2020.
 
 ---
 
-<p>&nbsp;</p>
+ 
 
 ## <a id="hardware"></a> Hardware security protection:
 
@@ -44,7 +44,7 @@ Last edited: December 19th, 2020.
 
 - **<u>Installing firewalls, antivirus and IDS/IPS:</u>** explained in detail right below.
 
-<p>&nbsp;</p>
+ 
 
 ## <a id="firewall"></a> What is a firewall?
 #### (Borrowed from [my blog post about firewalls](https://0x5ubt13.github.io/blog/2020/11/17/firewalls.html))
@@ -105,7 +105,7 @@ Although there isn't a general consensus about what a Next-Gen firewall is, the 
 - Upgrade paths to include future information feeds
 - Techniques to address evolving security threats
 
-<p>&nbsp;</p>
+ 
 
 ## <a id="ids"></a> Intrusion Detection Systems:
 They are devices or applications that like a Firewall, as seen above, monitor the network they are implemented in for suspicious activity. If they detect malicious activity or a policy violation, these are reported or collected centrally using a security information and event management system. The most common classifications of IDS are:
@@ -116,7 +116,7 @@ Systems like firewalls that analyze incoming network traffic.
 - Host-based intrusion detection systems (HIDS): 
 Systems like antivirus software that monitor important operating system files.
 
-<p>&nbsp;</p>
+ 
 
 # <a id="control_access"></a> Access Control Lists:
 
@@ -134,7 +134,7 @@ If we invert everything we say earlier with whitelisting, we get blacklisting. I
 
 A middle approach between whitelisting and blacklisting can be achieved by greylisting or, basically, using both at the same time. Why not? Think about this: in this case, we can use as an analogy the invitation to a Discord server. Anybody clicking the link will join, but if someone starts misbehaving, will most likely get banned and will never be able to come back in - let's analyse this. At the time of the entrance to the server, it was using the blacklist approach: only reject those who are already blacklisted. Then the ban falls upon your IP address, the server now will behave to you as a whitelist: only those who are trusted will have access.
 
-<p>&nbsp;</p>
+ 
 
 ## <a id="mitigation"></a> How to mitigate the damage after a data breach?
 
@@ -146,7 +146,7 @@ It's a very unfortunate event, but we have to face it: we are going to be breach
 
 - Leaving the authority to investigate: when the authority has been alerted, they will supervise the breach to assess whether our systems were strong enough to deem if it could have been prevented or was, in the end, a highly sophisticated attack enough, like, let's say, an APT using 0-day exploits. In the other hand, if our company is suspected to be negligent with our lacking security, we might get fined being the top penalty under the GDPR either €20 million or 4% of the annual global turnover of the company.
 
-<p>&nbsp;</p>
+ 
 
 # <a id="refs"></a> References:
 

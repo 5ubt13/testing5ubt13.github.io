@@ -14,7 +14,7 @@ Welcome to my second write-up, this time based on the room LazyAdmin from TryHac
 
 You can find the room for free in the following link: [TryHackMe - LazyAdmin](https://tryhackme.com/room/lazyadmin)
 
-<p>&nbsp;</p>
+ 
 
 # Reconnaissance:
 
@@ -32,7 +32,7 @@ Since there's nothing special to see in the aggresive scan, I will paste a simpl
 
 Let's dive right into the website!
 
-<p>&nbsp;</p>
+ 
 
 # Scouting Port 80:
 
@@ -62,7 +62,7 @@ Finding nothing else, it's time to use Gobuster again, this time adding the dire
 
 Now we are finally advancing somewhere! Let's dig into those directories see what we find.
 
-<p>&nbsp;</p>
+ 
 
 # Enumerating Port 80:
 
@@ -79,7 +79,7 @@ Fortunately, there was indeed something valuable in there: the admin password ha
 
 ![Hash found](/assets/images/write-ups/tryhackme/lazyadmin/hash_found.png)
 
-<p>&nbsp;</p>
+ 
 
 # Cracking the password:
 
@@ -89,7 +89,7 @@ I know using Hashcat or John The Ripper is really cool, but the quickest way of 
 
 Well, no surprise on this one, it really was a weak password!
 
-<p>&nbsp;</p>
+ 
 
 # Find Password, Use Password!
 
@@ -99,7 +99,7 @@ When we peeked over the database backup we found, we also saw the username "mana
 
 ![Admin panel](/assets/images/write-ups/tryhackme/lazyadmin/admin_panel.png)
 
-<p>&nbsp;</p>
+ 
 
 # Reverse shell
 
@@ -119,7 +119,7 @@ Click.
 
 ![We are in](/assets/images/write-ups/tryhackme/lazyadmin/we_are_in.png)
 
-<p>&nbsp;</p>
+ 
 
 # Privilege Escalation Phase
 
@@ -130,7 +130,7 @@ Click.
 3. The content of `/home/itguy/backup.pl`. It's non-writable. We can see it's calling a script located in `/etc/` directory. Maybe we can write to it?
 4. Taking a look at the permissions of the file, it looks like we can actually write to it and the owner is root!! Therefore, if we modify it to spawn a reverse shell in our ip, we should be able to pop a root shell. Let's try it out!
 
-<p>&nbsp;</p>
+ 
 
 # Pwning the machine
 
@@ -150,6 +150,6 @@ sudo /usr/bin/perl /home/itguy/backup.pl
 
 ![Pwned](/assets/images/write-ups/tryhackme/lazyadmin/pwned.png)
 
-<p>&nbsp;</p>
+ 
 
 
