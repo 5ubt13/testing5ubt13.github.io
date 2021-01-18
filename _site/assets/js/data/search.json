@@ -1,0 +1,154 @@
+[
+  
+  {
+    "title": "TryHackMe - LazyAdmin (Easy)",
+    "url": "/posts/lazyadmin/",
+    "categories": "Write-Ups",
+    "tags": "write-up, OSCP, Pentesting, Ethical-Hacking, Password-Cracking, Easy, PHP-reverse-shell",
+    "date": "2021-01-17 14:30:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Welcome to my second write-up, this time based on the room LazyAdmin from TryHackMe. This is the second of a series of rooms I will be covering on my personal Road to OSCP journey.You can find the room for free in the following link: TryHackMe - LazyAdmin&amp;nbsp;Reconnaissance:First off as usua..."
+  },
+  
+  {
+    "title": "TryHackMe - Inclusion (Easy)",
+    "url": "/posts/inclusion/",
+    "categories": "Write-Ups",
+    "tags": "write-up, OSCP, Pentesting, Ethical-Hacking, LFI, GTFObins, Easy",
+    "date": "2021-01-15 16:10:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Welcome and link to the roomWelcome to my first write-up, this time based on the room Inclusion. This is the first of a series of rooms I will be covering on my personal Road to OSCP journey.You can find the room for free in the following link: TryHackMe - Inclusion&amp;nbsp;ReconDoing a quick sc..."
+  },
+  
+  {
+    "title": "Week 5 Megapost - Implementing security measures to protect corporate data",
+    "url": "/posts/Week_5_megapost/",
+    "categories": "Blog",
+    "tags": "",
+    "date": "2020-12-08 16:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Last edited: December 19th, 2020.Implementing security measures to protect corporate dataTable of contents:            Key      Content                  1      Hardware security protection              2      What is a firewall              2.1      Types of firewall              2.1.1      Packe..."
+  },
+  
+  {
+    "title": "Backups and data recovery",
+    "url": "/posts/backups/",
+    "categories": "Blog",
+    "tags": "",
+    "date": "2020-12-01 16:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "Last edited: December 7th, 2020.Table of contents:            Key      Content                  1.      Backups and intro to Data Recovery              2.      Data Recovery              3.      Biometrics              3.1      3 Examples of Biometrics with Pros and Cons              4.      Refe..."
+  },
+  
+  {
+    "title": "Firewalls and IDSs",
+    "url": "/posts/firewalls/",
+    "categories": "Blog",
+    "tags": "",
+    "date": "2020-11-17 16:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "November 24th, 2020 - Blog post. Last edited: November 29th, 2020.Firewalls and Intrusion Detection SystemsTable of contents:            Key      Content                  1.      What is a firewall              1.1      Types of firewall              1.1.1      Packet-filtering firewalls         ..."
+  },
+  
+  {
+    "title": "Advantages of having an encrypted email",
+    "url": "/posts/encrypted-mail/",
+    "categories": "Blog",
+    "tags": "",
+    "date": "2020-11-17 16:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "November 17th, 2020 - Blog post. Last edited: November 28th, 2020.Advantages of an encrypted mail  1. The encryption itself, from end to end  2. Zero-access encryption  3. Secure datacenters  4. Smaller Attack Surface  5. Price  Conclusion  References&amp;nbsp;Following up on my blog post about t..."
+  },
+  
+  {
+    "title": "Identity theft. Consequences of medical identity theft and other data breaches",
+    "url": "/posts/consequences-of-medical-breaches/",
+    "categories": "Blog",
+    "tags": "",
+    "date": "2020-11-17 16:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "November 17th, 2020 - Blog post. Last edited: November 23rd, 2020.Medical identity theftIn Experian words:  “An estimated 1.4M Americans were victims of medical identity theft in 2009While this number is only 5% of all reported identity theft incidents, medical identity theft is expected to incre..."
+  },
+  
+  {
+    "title": "Top 5 Reasons why Data Breaches Happen",
+    "url": "/posts/top-5-reasons-breaches-exist/",
+    "categories": "Blog",
+    "tags": "",
+    "date": "2020-11-10 16:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "November 10th, 2020 - Blog postTop 5 Reasons why Data Breaches Happen  Old, Unpatched Security Vulnerabilities  Human Error  Malware  Insider Misuse  Physical Theft of a Data-Carrying Device&amp;nbsp;Top 1: Old, Unpatched Security VulnerabilitiesThere are numerous exploits recorded in websites li..."
+  },
+  
+  {
+    "title": "Talk-Talk (2015 Data Breach)",
+    "url": "/posts/Talk-Talk-(2015-Data-Breach)/",
+    "categories": "Blog",
+    "tags": "",
+    "date": "2020-11-10 16:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "November 10th, 2020 - Blog post.Last edited: November 19th, 2020.TalkTalk (2015 Data Breach)&amp;nbsp;Table of contents:  Key Takeaways  What happened?  How did it happen?  Why did it happen?  References&amp;nbsp; Key Takeaways:            Title      Feature                  CEO      Dido Harding..."
+  },
+  
+  {
+    "title": "Security Breach vs Data Breach",
+    "url": "/posts/Security-Breach-vs-Data-Breach/",
+    "categories": "Blog",
+    "tags": "",
+    "date": "2020-11-10 16:00:00 +0000",
+    
+
+
+
+
+
+    "snippet": "November 10th, 2020 - Blog postTable of contents:  1. Definitions          1.2  Security Breach      1.3  Data Breach        2. So, what’s the difference?  3. ReferencesWhat constitutes a Security Breach and how is it different to a Data Breach?DefinitionsSecurity BreachKaspersky resource center’..."
+  }
+  
+]
+
